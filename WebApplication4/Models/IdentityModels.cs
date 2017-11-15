@@ -25,6 +25,8 @@ namespace WebApplication4.Models
         {
         }
 
+        public DbSet<Details> Details { get; set; }
+
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
