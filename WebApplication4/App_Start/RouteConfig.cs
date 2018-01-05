@@ -18,10 +18,6 @@ namespace WebApplication4
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
-            //routes.MapRoute(
-            //    "Details/index","Details/index",
-            //    new { controller = "Details", action = "Index", id = UrlParameter.Optional }
-            //);
         }
     }
     

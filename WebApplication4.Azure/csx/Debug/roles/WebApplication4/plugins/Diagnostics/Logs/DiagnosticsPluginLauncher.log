@@ -1,17 +1,17 @@
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:10 AM] Emulator config file set to C:\Users\Srilu\Source\Repos\WebApplication4\WebApplication4.Azure\csx\Debug\roles\WebApplication4\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:10 AM] DiagnosticsStoreRootPath set to: C:\Users\Srilu\AppData\Local\dftmp\Resources\c2aef180-b1e6-4d68-bd71-1727181925ed
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:10 AM] Loading config file: C:\Users\Srilu\Source\Repos\WebApplication4\WebApplication4.Azure\csx\Debug\roles\WebApplication4\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:10 AM] Config file to read: C:\Users\Srilu\Source\Repos\WebApplication4\WebApplication4.Azure\csx\Debug\roles\WebApplication4\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:10 AM] Checking VM Type
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:10 AM] Emulator config file set to C:\Users\Srilu\Source\Repos\WebApplication4\WebApplication4.Azure\csx\Debug\roles\WebApplication4\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:10 AM] Extension set to Emulator Mode
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:10 AM] Reading XML configuration file
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:10 AM] Bypassing private config decryption
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:10 AM] Stopping the running plugin, if any
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:11 AM] No DiagnosticsPlugin is running.
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:11 AM] Killing any DiagnosticsPlugin that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:11 AM] Killing any MonAgentHost that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:11 AM] Diagnostics plugin stopped successfully
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:33:11 AM] Resetting DiagnosticPlugin
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:34:21 AM] DiagnosticsPlugin launched successfully with new configuration
-DiagnosticsPluginLauncher.exe Information: 0 : [11/15/2017 12:34:21 AM] DiagnosticPlugin exited with code 0
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Emulator config file set to C:\Users\Srilu\Source\Repos\WebApplication4\WebApplication4.Azure\csx\Debug\roles\WebApplication4\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] DiagnosticsStoreRootPath set to: C:\Users\Srilu\AppData\Local\dftmp\Resources\e00339dc-a7c5-45de-bcff-086d90d1fc30
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Loading config file: C:\Users\Srilu\Source\Repos\WebApplication4\WebApplication4.Azure\csx\Debug\roles\WebApplication4\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Config file to read: C:\Users\Srilu\Source\Repos\WebApplication4\WebApplication4.Azure\csx\Debug\roles\WebApplication4\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Emulator config file set to C:\Users\Srilu\Source\Repos\WebApplication4\WebApplication4.Azure\csx\Debug\roles\WebApplication4\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:31:37 PM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:32:47 PM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [12/28/2017 9:32:47 PM] DiagnosticPlugin exited with code 0
